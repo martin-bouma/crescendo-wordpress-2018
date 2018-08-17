@@ -1,0 +1,44 @@
+# Translation of Themes - Quality green in Dutch
+# This file is distributed under the same license as the Themes - Quality green package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-02-26 15:15:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - Quality green\n"
+
+#. Description of the plugin/theme
+msgid "A Business theme which is ideal for creating a corporate or business website. Quality Green is a colored-variation child theme of Quality. Quality Green comes with various locales."
+msgstr "Een zakelijk thema dat ideaal is voor het maken van een zakelijke website. Quality Green is een subthema met een kleurenvariatie voor Quality. Quality Green bevat verschillende vertalingen."
+
+#. Theme Name of the plugin/theme
+msgid "Quality green"
+msgstr "Quality green"
+
+#. Template Name of the plugin/theme
+msgid "Blog Full Width"
+msgstr "Blog volledige breedte"
+
+#. Template Name of the plugin/theme
+msgid "Blog Right Sidebar"
+msgstr "Blog zijbalk rechts"
+
+#. Template Name of the plugin/theme
+msgid "Blog Left Sidebar"
+msgstr "Blog zijbalk links"
+
+#. Theme URI of the plugin/theme
+msgid "https://webriti.com/quality-green-child-version-details-page/"
+msgstr "https://webriti.com/quality-green-child-version-details-page/"
+
+#. Author URI of the plugin/theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"
+
+#. Author of the plugin/theme
+msgid "webriti"
+msgstr "webriti"
